@@ -1,0 +1,17 @@
+{
+  "name": "wschat",
+  "version": "1.0.0",
+  "description": "chat implemented with socket.io, express and React",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo 'No test'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "jsonwebtoken": "^8.5.1",
+    "socket.io": "^4.4.1"
+  }
+}
